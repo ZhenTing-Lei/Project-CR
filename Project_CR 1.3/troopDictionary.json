@@ -1,0 +1,17 @@
+{
+    "knightF": {"speed": 2, "health": 100, "damage": 50, "range": 1, "type": "troop", "color": "grey", "size": "medium", "elixir": 3, "friendly": true, "vision": 75, "attackSpeed": 1.2},
+    "valkyrieF": {"speed": 2, "health": 120, "damage": 60, "range": 1, "type": "troop", "color": "orange", "size": "medium", "elixir": 4, "friendly": true, "vision": 75, "attackSpeed": 1.5},
+    "pekkaF": {"speed": 1, "health": 200, "damage": 100, "range": 1, "type": "troop", "color": "black", "size": "big", "elixir": 7, "friendly": true, "vision": 75, "attackSpeed": 1.8},
+    "miniPekkaF": {"speed": 2, "health": 150, "damage": 80, "range": 1, "type": "troop", "color": "black", "size": "medium", "elixir": 4, "friendly": true, "vision": 75, "attackSpeed": 1.6},
+    "hogRiderF": {"speed": 3, "health": 90, "damage": 70, "range": 1, "type": "troop", "color": "brown", "size": "medium", "elixir": 4, "friendly": true, "vision": 75, "attackSpeed": 1.6},
+    "wallBreakerF": {"speed": 3, "health": 50, "damage": 150, "range": 1, "type": "troop", "color": "white", "size": "small", "elixir": 2, "friendly": true, "vision": 75, "attackSpeed": 1.0},
+    "fireballF": {"speed": 0, "health": 1, "damage": 400, "range": 0, "type": "spell", "color": "red", "size": "superbig", "elixir": 4, "friendly": true, "vision": 75, "attackSpeed": 0.1},
+    "zapF": {"speed": 0, "health": 1, "damage": 200, "range": 0, "type": "spell", "color": "light blue", "size": "medium", "elixir": 2, "friendly": true, "vision": 75, "attackSpeed": 0.1},
+    "knightE": {"speed": -2, "health": 100, "damage": 50, "range": 1, "type": "troop", "color": "grey", "size": "medium", "elixir": 3, "friendly": false, "vision": 75, "attackSpeed": 1.2},
+    "valkyrieE": {"speed": -2, "health": 120, "damage": 60, "range": 1, "type": "troop", "color": "orange", "size": "medium", "elixir": 4, "friendly": false, "vision": 75, "attackSpeed": 1.5},
+    "pekkaE": {"speed": -1, "health": 200, "damage": 100, "range": 1, "type": "troop", "color": "black", "size": "big", "elixir": 7, "friendly": false, "vision": 75, "attackSpeed": 1.8},
+    "miniPekkaE": {"speed": -2, "health": 150, "damage": 80, "range": 1, "type": "troop", "color": "black", "size": "medium", "elixir": 4, "friendly": false, "vision": 75, "attackSpeed": 1.6},
+    "hogRiderE": {"speed": -3, "health": 90, "damage": 70, "range": 1, "type": "troop", "color": "brown", "size": "medium", "elixir": 4, "friendly": false, "vision": 75, "attackSpeed": 1.6},
+    "wallBreakerE": {"speed": -3, "health": 50, "damage": 150, "range": 1, "type": "troop", "color": "white", "size": "small", "elixir": 2, "friendly": false, "vision": 75, "attackSpeed": 1.0},
+    "zapE": {"speed": 0, "health": 1, "damage": 200, "range": 0, "type": "spell", "color": "light blue", "size": "medium", "elixir": 2, "friendly": false, "vision": 75, "attackSpeed": 0.1}
+}
