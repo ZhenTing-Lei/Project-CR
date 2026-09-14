@@ -1,0 +1,7 @@
+Questi sono parti del codice finale. Dato che seguiamo un metodo bottom up, lavoriamo in parti diverse e li mettiamo insieme
+
+parti:
+-battleField: implementazione campo e gestione delle unità
+-startPage: implementazione della pagina di avvio iniziale
+-troops: sistemazione truppe(miglioramenti)
+-1,1: copia della versione 1.1 per prendere ispirazione
