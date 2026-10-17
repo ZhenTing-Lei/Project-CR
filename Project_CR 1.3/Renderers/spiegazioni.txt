@@ -1,4 +1,0 @@
-queste sono le immagini usate
--bluetroops: immagini delle truppe blu
--redtroops: immagini delle truppe rosse
-mainRenderers: implementazione del resto, tipo torri ecc
