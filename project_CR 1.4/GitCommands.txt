@@ -1,0 +1,23 @@
+La cartella con Git è Project_CR 1.4
+
+Salvare un checkpoint:
+git add .
+git commit -m "descrizione modifica"
+
+Vedere la cronologia:
+git log --oneline
+
+Annullare modifiche non salvate (torna all'ultimo commit):
+git checkout -- .
+
+Tornare a un commit specifico (perde tutto dopo):
+git reset --hard <hash>
+
+Tornare al commit precedente:
+git reset --hard HARD
+
+Tornare avanti dopo un reset (se non hai committato nulla di nuovo):
+git reset --hard <hash più recente>
+
+Provare qualcosa senza rischi (branch separato):
+git checkout -b prova
